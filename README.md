@@ -6,8 +6,7 @@ BinaryLeo - Leonardo Moura
 
 Hi there! Welcome to my Github page! I am Leonardo Moura, a Brazilian Android engineer and I am currently learning Kotlin and Flutter!  
 
-<img align="right" alt="img" src="https://user-images.githubusercontent.com/72607039/169839470-264d83c1-0cc2-4257-a897-a35cbd11ae00.jpg" width="45%" height="auto" />
-
+<img align="right" alt="img" src="https://user-images.githubusercontent.com/72607039/169917184-a7ca071a-46f8-417d-8037-d73beae94358.png" width="45%" height="auto" />
 
 ```javascript
 const binaryleo = {
