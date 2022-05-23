@@ -48,13 +48,3 @@ I am a Trail Runner my biggest distance running is 46K. I love ice cream and goi
   
 ![BinaryLeo ' Activity Graph](https://activity-graph.herokuapp.com/graph?username=BinaryLeo&custom_title=BinaryLeo%20Contribution%20Graph&theme=react-dark&bg_color=0D1117&hide_border=true&line=7490ac&point=d8dee9)
   
-
-</br>
-
-## ⚙️ &nbsp;GitHub Analytics
-
-<p align="center">
-<img width="400em" src="https://github-readme-stats.vercel.app/api?username=binaryleo&show_icons=true&theme=vision-friendly-dark" alt="binaryleo's stats"/>
-<img width="330em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=binaryleo&layout=compact&theme=vision-friendly-dark" alt="Leo's most languages"/>
-</p>
-
