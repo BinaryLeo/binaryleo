@@ -13,7 +13,7 @@ Hi there! Welcome to my Github page! I am Leonardo Moura, a Brazilian Android en
 const binaryleo = {
     pronouns: "He" | "Him",
     language:["Portuguese 🇧🇷","English 🇨🇦","Norwegian 🇳🇴"],
-    Design-UI: ["Figma","Corel Draw", "Inkscape"],
+    Design-UI: ["Figma","CorelDraw", "Inkscape"],
     code: ["Javascript", "Kotlin", "Dart"],
     askMeAbout: ["mobile dev.", "iot", "trail running"],
     technologies: {
