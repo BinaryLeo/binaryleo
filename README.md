@@ -4,7 +4,7 @@ BinaryLeo - Leonardo Moura
 ![GitHub followers](https://img.shields.io/github/followers/binaryleo?label=Follow&style=social)
 <img src="https://komarev.com/ghpvc/?username=binaryleo&color=008080" alt="Profile views " />
 
-Hi there! Welcome to my Github page! I am Leonardo Moura, a Brazilian Android engineer and I am currently learning Kotlin and Flutter!  
+Hi there! Welcome to my Github page! I am Leonardo Moura, a Brazilian Front-End engineer, I am currently learning Kotlin!
 
 <img align="right" alt="img" src="https://user-images.githubusercontent.com/72607039/169917184-a7ca071a-46f8-417d-8037-d73beae94358.png" width="45%" height="auto" />
 
