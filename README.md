@@ -19,7 +19,7 @@ const binaryleo = {
         mobile: ["React Native", "Jetpack Comp.","Swift"],
         frontEnd: {
             js: ["Vanilla", "ReactJS", "Learning: NextJS"],
-            css: ["Tailwind css", "Styled components", "Sass"]
+            css: ["Tailwind", "Styled components", "Sass"]
         },
         backEnd: {
             js: ["node", "express"]
