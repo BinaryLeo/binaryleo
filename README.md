@@ -13,7 +13,7 @@ const binaryleo = {
     pronouns: "He" | "Him",
     language:["Portuguese 🇧🇷","English 🇨🇦","Norwegian 🇳🇴"],
     design_ui: ["Figma","CorelDraw", "Inkscape"],
-    code: ["Javascript", "Learning: Kotlin, Swift and Python"],
+    code: ["JS", "Learning: Kotlin, Swift and Python"],
     askMeAbout: ["Mobile dev.", "Iot", "Trail running"],
     technologies: {
         mobile: ["React Native", "Jetpack Comp.","Swift"],
