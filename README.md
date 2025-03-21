@@ -6,16 +6,17 @@
 <img src="https://komarev.com/ghpvc/?username=binaryleo&color=008080" alt="Profile views " />
 
 
-Senior software engineer  with expertise in building high-performance, user-friendly mobile applications that push the boundaries of visual possibilities. I also have experience developing web and Windows desktop solutions. I am passionate about creating solutions that focus on sustainability, animal conservation, renewable energy, IoT, and health. Currently, I am working on projects integrating Gen-AI and mentoring new developers by providing comprehensive training in React Native.
+Senior software engineer with expertise in building high-performance, user-friendly mobile applications that push the boundaries of visual possibilities. I also have experience developing web and Windows desktop solutions. I am passionate about creating solutions that focus on sustainability, animal conservation, renewable energy, IoT, and health. Currently, I am working on projects integrating Gen-AI and mentoring new developers by providing comprehensive training in React Native.
 
 Expertise in:
-* ✔️ Expo | React Native 
+* ✔️ Expo | React Native | Lynx
 * ✔️ IONIC React
 * ✔️ Android and IOS development
 * ✔️ Native and hybrid development
 * ✔️ Figma | Penpot | UI |UX Design
 * ✔️ Gen-A.I | Prompt Engineering | ANN
-* ✔️ Rust
+* ✔️ Rust | C# |
+* ✔️ Zed IDE
 
 Other skills: 
 * ✔️ Experience working remotely using Agile methodologies.
@@ -36,7 +37,7 @@ const binaryleo = {
 
 
 ```
-![Group 699-3](https://github.com/user-attachments/assets/6b720e69-720b-4f51-8aee-f70042e2ce98)
+
 
 
 </div>
